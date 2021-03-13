@@ -1,6 +1,8 @@
-# introduction_screen_v1
 
-A new Flutter project.
+## **Flutter Introduction Screens Example**
+
+![Flutter Introduction Screens](https://user-images.githubusercontent.com/37087597/111048883-733b7200-845e-11eb-8c76-9a8375ba3cff.gif)
+
 
 ## Getting Started
 
