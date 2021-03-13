@@ -1,8 +1,6 @@
-
 ## **Flutter Introduction Screens Example**
 
-![Flutter Introduction Screens](https://user-images.githubusercontent.com/37087597/111048883-733b7200-845e-11eb-8c76-9a8375ba3cff.gif)
-
+![Flutter Introduction Screens v1](https://user-images.githubusercontent.com/37087597/111050860-26f13180-8460-11eb-8fcf-1b1ee7bacbc9.gif)
 
 ## Getting Started
 
