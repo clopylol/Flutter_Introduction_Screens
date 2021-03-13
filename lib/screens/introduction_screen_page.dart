@@ -5,7 +5,8 @@ class IntroductionScreenPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return IntroductionScreen(
-      //globalBackgroundColor: Colors.lightGreen,
+      globalBackgroundColor: Colors
+          .green[600], //PageView'ın bittiği en sol ve en sağ kısımın rengi
       dotsDecorator: _dotsDecoratorPage, //Noktaların Tasarımı
       //Sayfalarımız
       pages: [
