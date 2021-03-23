@@ -9,6 +9,7 @@
 - Paketeleri indirdikten sonra da son olarakta **`flutter run`** ile projeyi çalıştırabilirsin.
 
 
-### Projenin Görseli
+## Projenin Görseli
+
 ![Flutter Introduction Screens v1](https://user-images.githubusercontent.com/37087597/111050860-26f13180-8460-11eb-8fcf-1b1ee7bacbc9.gif)
 
